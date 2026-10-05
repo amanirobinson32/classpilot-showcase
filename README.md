@@ -1,10 +1,32 @@
 # ClassPilot
 
+![ClassPilot — Student Study & Academic Planner](ClassPilot%20Student%20Study%20Workspace.png)
+
 **Student Study & Academic Planner for Web + Mobile**
 
 ClassPilot is a local-first student productivity system for organizing courses, schedules, notes, materials, quizzes, flashcards, assignments, exams, study plans, and progress in one connected workflow.
 
 Built and published by **Robinson Software Works**.
+
+## Product Showcase
+
+### Web Dashboard
+
+![ClassPilot Web Dashboard](home-next-class.png)
+
+### Quiz Bank
+
+![ClassPilot Quiz Bank](quiz-bank.png)
+
+### Notes Workspace
+
+![ClassPilot Notes Workspace](notes-workspace.png)
+
+### Mobile App
+
+| Today's Learning | Quiz Practice |
+| --- | --- |
+| <img src="home.jpeg" alt="ClassPilot Mobile Today's Learning" width="320"> | <img src="practice.jpeg" alt="ClassPilot Mobile Quiz Practice" width="320"> |
 
 ## Web + Mobile
 
@@ -38,13 +60,9 @@ Web and mobile data are stored locally and independently in V1. Automatic Web �
 
 The commercial ClassPilot package includes the complete Web + Mobile source code and setup documentation.
 
-**Price: $69.99 USD — one-time purchase**
+**$69.99 USD — one-time purchase**
 
-[Purchase ClassPilot from Robinson Software Works](https://robinsonsoftwareworks.lemonsqueezy.com/checkout/buy/90f3d7c8-7b05-433b-b52a-e637ccbf521b)
-
-## Product Showcase
-
-Product screenshots and a live web demo will be added to this showcase repository.
+[**Purchase ClassPilot from Robinson Software Works →**](https://robinsonsoftwareworks.lemonsqueezy.com/checkout/buy/90f3d7c8-7b05-433b-b52a-e637ccbf521b)
 
 ## Commercial Source Notice
 
@@ -54,6 +72,5 @@ The complete source package is distributed to licensed customers through Robinso
 
 ## Publisher
 
-**Robinson Software Works**
-
+**Robinson Software Works**  
 ClassPilot V1.0.0
